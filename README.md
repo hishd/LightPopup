@@ -1,4 +1,5 @@
 # Light Popup
+[![](https://jitpack.io/v/hishd/LightPopup.svg)](https://jitpack.io/#hishd/LightPopup)
 
 LightPopup for android, a simple delightful popup dialog with both single and non dual action type.
 
