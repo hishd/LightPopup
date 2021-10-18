@@ -45,7 +45,7 @@ allprojects {
 add dependency,
 ```
 dependencies {
-	        implementation 'com.github.hishd:LightPopup:1.0'
+	        implementation 'com.github.hishd:LightPopup:1.0.2'
 	}
 ```
 
