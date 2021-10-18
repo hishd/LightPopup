@@ -1,4 +1,4 @@
-package com.hishd.lightpopup;
+package com.hishd.lightpopupdialog;
 
 import org.junit.Test;
 

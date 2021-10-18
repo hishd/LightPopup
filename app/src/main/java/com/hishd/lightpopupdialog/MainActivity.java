@@ -1,9 +1,11 @@
-package com.hishd.lightpopup;
+package com.hishd.lightpopupdialog;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Dialog;
 import android.os.Bundle;
+
+import com.hishd.lightpopup.LightPopup;
 
 public class MainActivity extends AppCompatActivity {
 
