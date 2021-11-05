@@ -1,7 +1,7 @@
 # Light Popup
 [![](https://jitpack.io/v/hishd/LightPopup.svg)](https://jitpack.io/#hishd/LightPopup)
 
-LightPopup for android, a simple delightful popup dialog with both single and non dual action type.
+LightPopup for android, a simple delightful popup dialog with both single and non dual action type
 
 ### Screenshot
 [![](https://github.com/hishd/LightPopup/blob/master/images/image1.png)](https://github.com/hishd/LightPopup/blob/master/images/image1.png)
@@ -11,7 +11,7 @@ LightPopup for android, a simple delightful popup dialog with both single and no
 
 ------------
 
-The easiest way to use Animdialog is to add the android library to your projects dependencies.
+The easiest way to use Animdialog is to add the android library to your projects dependencies
 
 ##### Maven
 ```
